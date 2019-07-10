@@ -42,4 +42,4 @@ Za pokretanje videa **_klikni na sliku_** ispod
 
 ## PowerPoint prezentacija aplikacije 
 
- [PowerPoint prezentacija](http://tiny.cc/g2j98y)
+ [PowerPoint prezentacija](http://tiny.cc/8jwi9y)
