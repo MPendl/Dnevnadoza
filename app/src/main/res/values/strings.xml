@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dnevna doza...</string>
+    <string name="dnevna_doza">Dnevna doza...</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="izaberi_dnevnu_dozu">Izaberi dnevnu dozu</string>
+    <string name="psi">Psi</string>
+    <string name="chuck_norris">Chuck Norris</string>
+    <string name="novo">NOVO</string>
+    <string name="izlaz">IZLAZ</string>
+    <string name="dalje">DALJE</string>
+    <string name="chuck_norris_jokes">Chuck Norris Jokes</string>
+    <string name="cute_doggos">Cute doggos</string>
+    <string name="podijeli">PODIJELI</string>
+</resources>
