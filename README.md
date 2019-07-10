@@ -11,8 +11,9 @@
 <br />
 
 ## O aplikaciji
-Ideja ove aplikacije je korisniku uljepšati dan.<br />
+Ideja ove aplikacije je uljepšati dan korisniku.<br />
 Aplikacija korisniku omogučava izbor viceva o Chuck Norrisu i slike pasa.<br />
+Korisnik može podijeliti (_share-ati_) sliku ili vic koji želi.
 
 Za login u aplikaciju koristi se Google Sign in.<br />
 <br />
